@@ -1,0 +1,29 @@
+/* *{
+    margin:0px;
+    padding:0px;
+
+} */
+body{
+    background-color: #d6f5f3;
+}
+img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+hr{
+   
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgba(54, 48, 48, 0.404);
+    border-width: 5px;  /* to change dot size */
+    width: 7%;
+
+ 
+}
+h1{
+    color:#19d3da ;
+}
+h2{
+    color:#19d3da ;
+}
